@@ -56,7 +56,7 @@
         <dependency>
             <groupId>org.jooq</groupId>
             <artifactId>jooq</artifactId>
-            <version>3.14.16</version>
+            <version>3.20.8</version>
             <scope>provided</scope>
         </dependency>
 

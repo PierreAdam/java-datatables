@@ -44,7 +44,7 @@
         <maven.build.timestamp.format>yyyy-MM-dd'T'HH:mm:sszzz</maven.build.timestamp.format>
 
         <!-- Which version of java is it compiled for -->
-        <java.version>8</java.version>
+        <java.version>11</java.version>
 
         <!-- The key ID used to sign the build. -->
         <gpg.keyname>yourkeyhere</gpg.keyname>
